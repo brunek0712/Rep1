@@ -11,7 +11,7 @@ public class Hello {
 		System.out.println("Hello World");
 		System.out.println("What's up?");
 
-		System.out.println("Thanks for running, " + args[0] + "!");
+		
 
 
 	}
