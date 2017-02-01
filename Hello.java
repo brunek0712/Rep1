@@ -10,8 +10,13 @@ public class Hello {
 		
 		System.out.println("Hello World");
 		System.out.println("What's up?");
+<<<<<<< HEAD
 		System.out.println("Hi - Matt");
 		
+=======
+
+		//hey
+>>>>>>> 3e969cd3b92565f0b08a968960042695aadabe8b
 
 
 	}
