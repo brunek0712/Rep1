@@ -8,6 +8,7 @@ public class test {
 		// TODO Auto-generated method stub
 
 		System.out.println("Sure hope this works");
+		System.out.println(24);
 	}
 
 }
